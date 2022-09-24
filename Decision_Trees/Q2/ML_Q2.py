@@ -375,6 +375,7 @@ def classify(row, node):
 # In[29]:
 
 
+print("THE BLOCKS TAKE AROUND 20 MINUTES TO EXECUTE")
 print("Constructing decision tree using gini index with depth 3")
 my_tree_1 = build_tree(gini, train_df, 3, 0) #decision tree using gini index with max depth as 3
 #print_tree(my_tree_1)
