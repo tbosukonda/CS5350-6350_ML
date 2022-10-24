@@ -1,0 +1,1 @@
+python3 q2c.py
