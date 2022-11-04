@@ -1,0 +1,1 @@
+python3 standard_perceptron.py
